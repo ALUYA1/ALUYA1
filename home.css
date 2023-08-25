@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    text-decoration: aqua;
+    text-decoration: dotted;
+ }
+
+ .on{
+    border:1px  skyblue solid;
+    border-radius: 50px 20px;
+    text-align: center;
+    background-color: skyblue;
+    margin-top:  30px;
+   
+}
